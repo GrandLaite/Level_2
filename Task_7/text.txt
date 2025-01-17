@@ -1,0 +1,7 @@
+John,Doe,25,USA
+Jane,Smith,30,Canada
+Bob,Lee,40,UK
+NoDelimiterHere
+Charlie,Brown,35,USA
+SingleField
+Alice,Johnson,50,Australia

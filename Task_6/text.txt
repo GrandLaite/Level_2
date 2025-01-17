@@ -1,0 +1,13 @@
+Hello World
+This is a test
+some lines
+some ERROR in logs
+some lines
+some lines 2
+HELLO world
+Error here
+We have hello again
+Hello
+hello
+some error
+some data
